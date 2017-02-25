@@ -1,4 +1,4 @@
 onload = function(){
-$("#header").load('../shared/header.html');
+$("#header").load('.../shared/header.html');
 
 };
